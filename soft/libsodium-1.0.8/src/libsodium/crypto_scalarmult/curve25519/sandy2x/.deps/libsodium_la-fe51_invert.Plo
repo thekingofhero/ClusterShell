@@ -1,0 +1,28 @@
+crypto_scalarmult/curve25519/sandy2x/libsodium_la-fe51_invert.lo: \
+ crypto_scalarmult/curve25519/sandy2x/fe51_invert.c \
+ crypto_scalarmult/curve25519/sandy2x/fe51.h \
+ include/sodium/crypto_uint64.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h \
+ crypto_scalarmult/curve25519/sandy2x/fe51_namespace.h
+
+crypto_scalarmult/curve25519/sandy2x/fe51.h:
+
+include/sodium/crypto_uint64.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+crypto_scalarmult/curve25519/sandy2x/fe51_namespace.h:

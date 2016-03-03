@@ -1,0 +1,11 @@
+crypto_core/salsa20/ref/libsodium_la-core_salsa20.lo: \
+ crypto_core/salsa20/ref/core_salsa20.c \
+ include/sodium/crypto_core_salsa20.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h \
+ include/sodium/export.h
+
+include/sodium/crypto_core_salsa20.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h:
+
+include/sodium/export.h:

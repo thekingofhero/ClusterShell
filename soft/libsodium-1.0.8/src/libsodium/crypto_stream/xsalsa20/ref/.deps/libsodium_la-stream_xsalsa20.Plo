@@ -1,0 +1,35 @@
+crypto_stream/xsalsa20/ref/libsodium_la-stream_xsalsa20.lo: \
+ crypto_stream/xsalsa20/ref/stream_xsalsa20.c \
+ include/sodium/crypto_core_hsalsa20.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h \
+ include/sodium/export.h include/sodium/crypto_stream_salsa20.h \
+ /usr/include/stdint.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h \
+ include/sodium/crypto_stream_xsalsa20.h include/sodium/utils.h
+
+include/sodium/crypto_core_hsalsa20.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h:
+
+include/sodium/export.h:
+
+include/sodium/crypto_stream_salsa20.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+include/sodium/crypto_stream_xsalsa20.h:
+
+include/sodium/utils.h:

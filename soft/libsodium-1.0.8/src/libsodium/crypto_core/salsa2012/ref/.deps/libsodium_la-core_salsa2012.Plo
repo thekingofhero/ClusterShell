@@ -1,0 +1,11 @@
+crypto_core/salsa2012/ref/libsodium_la-core_salsa2012.lo: \
+ crypto_core/salsa2012/ref/core_salsa2012.c \
+ include/sodium/crypto_core_salsa2012.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h \
+ include/sodium/export.h
+
+include/sodium/crypto_core_salsa2012.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h:
+
+include/sodium/export.h:

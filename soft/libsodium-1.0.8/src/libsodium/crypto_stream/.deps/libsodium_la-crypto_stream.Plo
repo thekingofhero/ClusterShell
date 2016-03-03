@@ -1,0 +1,30 @@
+crypto_stream/libsodium_la-crypto_stream.lo: \
+ crypto_stream/crypto_stream.c include/sodium/crypto_stream.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h \
+ include/sodium/crypto_stream_xsalsa20.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h \
+ include/sodium/export.h
+
+include/sodium/crypto_stream.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h:
+
+include/sodium/crypto_stream_xsalsa20.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+include/sodium/export.h:
